@@ -1,6 +1,7 @@
 # badge-demo
 examples of live badges that can be added to a repo
 
+[![GitHub issues](https://img.shields.io/github/issues/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/issues) [![GitHub stars](https://img.shields.io/github/stars/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/stargazers)[![GitHub license](https://img.shields.io/github/license/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/blob/master/LICENSE)
 # Live counter
 [free-counters.org](https://www.free-counters.org/)
 
