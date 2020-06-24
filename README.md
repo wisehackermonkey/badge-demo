@@ -5,6 +5,15 @@ examples of live badges that can be added to a repo
 # Live counter
 [free-counters.org](https://www.free-counters.org/)
 
+
+# Starter pack
+[![Python](https://img.shields.io/badge/Python-Enabled-<COLOR>.svg)][![Python](https://img.shields.io/badge/P5.js-Enabled-pink.svg)](https://shields.io/)[![Node](https://img.shields.io/badge/Node.js-Enabled-purple.svg)](https://shields.io/)[![Raspberry pi](https://img.shields.io/badge/Raspberry_pi-Enabled-blue.svg)](https://shields.io/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+```
+[![Python](https://img.shields.io/badge/Python-Enabled-<COLOR>.svg)][![Python](https://img.shields.io/badge/P5.js-Enabled-pink.svg)](https://shields.io/)[![Node](https://img.shields.io/badge/Node.js-Enabled-purple.svg)](https://shields.io/)[![Raspberry pi](https://img.shields.io/badge/Raspberry_pi-Enabled-blue.svg)](https://shields.io/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+```
+
 <script type="text/javascript" src="https://www.free-counters.org/count/5vcy"></script><br>
  <a href='http://www.counter-zaehler.de'>Counter html Code</a> <script type='text/javascript' src='https://whomania.com/ctr?id=d8e60fac50c88e3e6ebdfcdf4caca0e300e6500e'></script>
  
