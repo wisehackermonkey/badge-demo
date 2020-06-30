@@ -17,7 +17,15 @@ examples of live badges that can be added to a repo
 <script type="text/javascript" src="https://www.free-counters.org/count/5vcy"></script><br>
  <a href='http://www.counter-zaehler.de'>Counter html Code</a> <script type='text/javascript' src='https://whomania.com/ctr?id=d8e60fac50c88e3e6ebdfcdf4caca0e300e6500e'></script>
  
- 
+ # Flow Diagrams
+### [yuml.me](https://yuml.me/diagram/plain/activity/draw)
+![](http://yuml.me/5203c092.png)
+### Example
+```uml
+[add photo]<>-upload>[store in db]<>->[display photo on web page]
+or 
+(start)->(git push)->(git tag vX.X)->(gh action triggered)->(CDN registers the change)->(end)
+```
  # Creative commons license
  [creativecommons.org](https://creativecommons.org/choose/)
  1) Large
