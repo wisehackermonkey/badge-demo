@@ -6,6 +6,11 @@ examples of live badges that can be added to a repo
 [free-counters.org](https://www.free-counters.org/)
 
 
+# Contributors
+[![](https://contrib.rocks/image?repo=wisehackermonkey/badge-demo)](https://github.com/wisehackermonkey/badge-demo/graphs/contributors)
+Made with [contributors-img](https://contrib.rocks).
+
+
 # Starter pack
 [![Python](https://img.shields.io/badge/Python-Enabled-<COLOR>.svg)][![Python](https://img.shields.io/badge/P5.js-Enabled-pink.svg)](https://shields.io/)[![Node](https://img.shields.io/badge/Node.js-Enabled-purple.svg)](https://shields.io/)[![Raspberry pi](https://img.shields.io/badge/Raspberry_pi-Enabled-blue.svg)](https://shields.io/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
