@@ -1049,3 +1049,12 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
+
+# Toggle list like notion.so has!
+<details><summary>Root level</summary>
+<details><summary>Thing 1</summary>
+
+</details>
+</details>
+
+</details>
